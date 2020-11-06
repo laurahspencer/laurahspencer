@@ -19,6 +19,9 @@ Oceanography (Chemical), 2011
 
 ### Publications 
 
+**The risks of shell‐boring polychaetes to shellfish aquaculture in Washington, USA: A mini‐review to inform mitigation actions**  
+Laura H. Spencer, Julieta C. Martinelli, Teri L. King, Ryan Crim, Brady Blake, Heather M. Lopes, & Chelsea L. Wood. Aquaculture Research, 2020, [https://doi.org/10.1111/are.14921](https://doi.org/10.1111/are.14921)
+
 **Effects of winter conditions on Olympia oyster reproduction and larval yield**  
 Laura H Spencer, Erin Horkan, Ryan Crim, Steven B Roberts. Pre-print. _BioaRxiv_ [https://doi.org/10.1101/2020.06.01.127977](https://doi.org/10.1101/2020.06.01.127977)  
 
@@ -32,9 +35,6 @@ Laura H Spencer, Micah Horwith, Alexander T Lowe, Yaamini R Venkataraman, Emma T
 
 **Larval response to parental low pH exposure in Pacific oysters (_Crassostrea gigas_)**  
 Yaamini R Venkataraman, Laura H Spencer, Steven B Roberts. _Journal of Shellfish Research_ 2019, [https://doi.org/10.2983/035.038.0325](https://doi.org/10.2983/035.038.0325)  
-
-**First confirmation of the shell-boring oyster parasite Polydora websteri (Polychaeta: Spionidae) in Washington State, USA**  
-Julieta Martinelli, Heather Lopes, Lorenz Hauser, Isadora Jimenez-Hidalgo, Teri L King, Jacqueline Padilla-Gamino, Paul Rawson, Laura Spencer, Jason Williams, Chelsea Wood. _In review. Preprint in PeerJ: [https://doi.org/10.7287/peerj.preprints.27621v1](https://doi.org/10.7287/peerj.preprints.27621v1)
 
 **Confirmation of the shell-boring oyster parasite Polydora websteri (Polychaeta: Spionidae) in Washington State, USA**  
 Julieta C. Martinelli, Heather M. Lopes, Lorenz Hauser, Isadora Jimenez-Hidalgo, Teri L. King, Jacqueline L. Padilla-Gamiño, Paul Rawson, Laura H. Spencer, Jason D. Williams & Chelsea L. Wood. Scientific Reports volume 10, Article number: 3961 (2020) [https://doi.org/10.1038/s41598-020-60805-w](https://doi.org/10.1038/s41598-020-60805-w)  
